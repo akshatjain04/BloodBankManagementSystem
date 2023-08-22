@@ -1,0 +1,6 @@
+username,firstName,lastName,email,password,phone,userStatus
+User123,John,Doe,johndoe@example.com,pass123,1234567890,Active
+User456,Emma,Smith,emmasmith@example.com,pass456,2345678901,Inactive
+User789,James,Brown,jamesbrown@example.com,pass789,3456789012,Active
+User012,Olivia,Johnson,oliviajohnson@example.com,pass012,4567890123,Inactive
+User345,Michael,Williams,michaelwilliams@example.com,pass345,5678901234,Active

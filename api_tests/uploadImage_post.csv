@@ -1,0 +1,21 @@
+petId,additionalMetadata,file
+1234,Color: Brown,File1.jpg
+5678,Breed: Labrador,File2.jpg
+9101,Age: 2,File3.jpg
+1121,Size: Medium,File4.jpg
+3141,Gender: Male,File5.jpg
+5161,Species: Dog,File6.jpg
+7181,Color: Black,File7.jpg
+9201,Breed: Golden Retriever,File8.jpg
+1222,Age: 3,File9.jpg
+3242,Size: Large,File10.jpg
+5262,Gender: Female,File11.jpg
+7282,Species: Cat,File12.jpg
+9303,Color: White,File13.jpg
+1323,Breed: Poodle,File14.jpg
+3343,Age: 1,File15.jpg
+5363,Size: Small,File16.jpg
+7383,Gender: Male,File17.jpg
+9404,Species: Dog,File18.jpg
+1424,Color: Grey,File19.jpg
+3444,Breed: Bulldog,File20.jpg
