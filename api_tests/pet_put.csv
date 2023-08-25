@@ -1,0 +1,11 @@
+id,name,photoUrls,status
+1,John Doe,https://example.com/johndoe.jpg,Active
+2,Jane Smith,https://example.com/janesmith.jpg,Inactive
+3,Robert Johnson,https://example.com/robertjohnson.jpg,Active
+4,Emily Davis,https://example.com/emilydavis.jpg,Inactive
+5,Michael Brown,https://example.com/michaelbrown.jpg,Active
+6,Linda Taylor,https://example.com/lindataylor.jpg,Inactive
+7,David Anderson,https://example.com/davidanderson.jpg,Active
+8,Jennifer Thomas,https://example.com/jenniferthomas.jpg,Inactive
+9,Patricia Jackson,https://example.com/patriciajackson.jpg,Active
+10,James White,https://example.com/jameswhite.jpg,Inactive
