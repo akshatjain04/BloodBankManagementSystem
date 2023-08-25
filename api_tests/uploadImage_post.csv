@@ -1,0 +1,6 @@
+petId,additionalMetadata,file
+1234,"{ 'color': 'brown', 'age': '2 years' }", "file1.jpg"
+5678,"{ 'color': 'black', 'age': '1 year' }", "file2.jpg"
+9012,"{ 'color': 'white', 'age': '3 years' }", "file3.jpg"
+3456,"{ 'color': 'grey', 'age': '4 years' }", "file4.jpg"
+7890,"{ 'color': 'golden', 'age': '5 years' }", "file5.jpg"

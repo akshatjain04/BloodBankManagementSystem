@@ -1,0 +1,11 @@
+username,firstName,lastName,email,password,phone,userStatus
+jdoe123,John,Doe,johndoe123@example.com,pass123,(555)555-5555,Active
+asmith456,Alice,Smith,alicesmith456@example.com,pass456,(555)555-5556,Inactive
+bwilliams789,Bob,Williams,bobwilliams789@example.com,pass789,(555)555-5557,Active
+jbrown012,James,Brown,jamesbrown012@example.com,pass012,(555)555-5558,Inactive
+eparker345,Emma,Parker,emmaparker345@example.com,pass345,(555)555-5559,Active
+tjohnson678,Tom,Johnson,tomjohnson678@example.com,pass678,(555)555-5560,Active
+jwilson901,Jane,Wilson,janewilson901@example.com,pass901,(555)555-5561,Inactive
+awhite234,Anna,White,annawhite234@example.com,pass234,(555)555-5562,Active
+jrobinson567,Jack,Robinson,jackrobinson567@example.com,pass567,(555)555-5563,Inactive
+mclark890,Mark,Clark,markclark890@example.com,pass890,(555)555-5564,Active
